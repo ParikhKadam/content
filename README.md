@@ -12,7 +12,7 @@ India Investments is a community to discuss investments, insurance, finance, eco
 If you want to discuss anything on this website with other people, please check out our sub-reddit and discord below.
 
 [![](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://reddit.com/r/indiainvestments) [![](https://img.shields.io/discord/546638391127572500)](https://discord.gg/hqBNg4u) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Beginner
@@ -138,9 +138,6 @@ Our heartiest gratitude, to these wonderful people ([emoji key](https://allcontr
     <td align="center"><a href="https://github.com/M-e-r-c-u-r-y"><img src="https://avatars.githubusercontent.com/u/37909009?v=4?s=100" width="100px;" alt=""/><br /><sub><b>M-e-r-c-u-r-y</b></sub></a><br /><a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3AM-e-r-c-u-r-y" title="Reviewed Pull Requests">👀</a> <a href="#question-M-e-r-c-u-r-y" title="Answering Questions">💬</a> <a href="https://github.com/indiainvestments/content/commits?author=M-e-r-c-u-r-y" title="Documentation">📖</a></td>
     <td align="center"><a href="http://jtnydv.gitbook.io"><img src="https://avatars.githubusercontent.com/u/14368729?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jatin Yadav</b></sub></a><br /><a href="#infra-Jtnydv" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/indiainvestments/content/commits?author=Jtnydv" title="Code">💻</a> <a href="#question-Jtnydv" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/yashovardhan99/"><img src="https://avatars.githubusercontent.com/u/24536718?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yashovardhan Dhanania </b></sub></a><br /><a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Ayashovardhan99" title="Reviewed Pull Requests">👀</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://searchableguy.com"><img src="https://avatars.githubusercontent.com/u/73341821?v=4?s=100" width="100px;" alt=""/><br /><sub><b>searchableguy</b></sub></a><br /><a href="https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Asearchableguy" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
